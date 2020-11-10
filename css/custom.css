@@ -1,65 +1,47 @@
 body {
-    background-color: #4bb3c92;
-
+    background-color: #4BB3C9;
 }
     .container {
         display: inline-block;
         width: 800px;
         margin-top: 100px;
-        margin-left: calc ((100 % - 800px) / 2);
-        
+        margin-left: calc((100% - 800px) / 2);
     }
-       .left-column {
-           display: inline-block;
-           width: 40px;
-           float: left;
-           margin-top: 100px;
-           background-color: #0069BA;
-
+        .left-column {
+            display: inline-block;
+            width: 40%;
+            float: left;
+            margin-top: 20px;
+            background-color: #0069BA;
+        }
             .page-title {
             }
-
             .bottom-links {
-
-                    }
-                    .bottom-link > .link {
-
-                    }
-                    .bottom-link > .text {
-
-                    }
-
-        }
+            }
+                .bottom-links > .link {
+                }
+                .bottom-links > .text {
+                }
         .right-column {
             display: inline-block;
             width: 60%;
             float: left;
             padding: 60px;
-            background-color: #ffffff;
-
-            }
+            background-color: #fff;
+        }
             .close {
-
             }
-
             .form {
-
             }
-            .form-row {
-
-            }
+                .form-row {
+                }
                     .label {
-
                     }
                     .input {
-
                     }
                     .btn {
-
                     }
                     .form-row > .text {
-
                     }
-                    .form-row > .link{
-
+                    .form-row > .link {
                     }
