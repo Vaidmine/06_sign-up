@@ -1,14 +1,23 @@
 body {
+    background-color: #008ee2;
 
 }
     .container {
-
+        display: inline-block;
+        width: 800px;
+        margin-top: 100px;
+        margin-left: calc ((100 % - 800px) / 2)
+        
     }
        .left-column {
+           display: inline-block;
+           width: 40px;
+           float: left;
+           background-color: aqua;
 
             .page-title {
-
             }
+
             .bottom-link {
 
                     }
@@ -21,6 +30,11 @@ body {
 
         }
         .right-column) {
+            display: inline-block;
+            width: 60% 
+            float: left;
+            padding: 40px;
+            background-color: #ffffff
 
             }
             .close {
