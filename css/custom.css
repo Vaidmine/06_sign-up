@@ -8,11 +8,7 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
-<<<<<<< HEAD
         filter: blur(20px);
-=======
-        filter: blur(8px);
->>>>>>> 410214f4920b051dd6a7f5cdae0b88e2b14dd55e
     }
     .container {
         display: inline-block;
@@ -22,19 +18,11 @@ body {
         /* top: calc((100vh - 460px) / 2);
         left: calc((100% - 800px) / 2); */
         top: 50%;
-        left: 50%;
         transform: translate(-50%, -50%);
 =======
        /* top: calc((100% - 400px) / 2);
         left: calc((100% - 800px) / 2);*/
         top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%)
->>>>>>> 410214f4920b051dd6a7f5cdae0b88e2b14dd55e
-    }
-        .left-column {
-            display: inline-block;
-            width: 40%;
             padding: 40px;
             padding-bottom: 20px;
             background-color: #0069BA;
