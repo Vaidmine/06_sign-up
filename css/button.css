@@ -8,10 +8,10 @@
     border-radius: 20px;
     background-color: blue;
     color: #ffffff;
-    box-shadow: 0 2px 5px #777777;
+    box-shadow: 2px 2px 5px #777777;
 }
 
 .btn:hover {
-    box-shadow: 0 4px 8px #777777;
+    box-shadow: 4px 4px 8px #777777;
     cursor: pointer;
 }
