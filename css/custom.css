@@ -38,6 +38,7 @@ body {
             .page-title {
                 display: inline-block;
                 width: 100%;
+                font-weight: normal;
             }
             .bottom-links {
                 display: inline-block;
