@@ -10,10 +10,10 @@
         .form-row:last-of-type {
             margin-bottom: 0;
         }
-
         .label {
             display: inline-block;
             width: 100%;
+            margin-bottom: 5px;
             font-size: 13px;
             line-height: 15px;
             text-transform: uppercase;
@@ -27,24 +27,21 @@
             border-bottom: 1px solid #777;
         }
         .input:focus {
-            outline: 1px solid #0069DA
-            
+            outline: 3px solid #0069BA;
         }
-
         .form-row > .text {
             display: inline-block;
             padding: 10px;
-            line-height: 40px;
+            line-height: 20px;
             font-size: 18px;
         }
-
         .form-row > .link {
             display: inline-block;
             padding: 10px;
-            line-height: 40px;
+            line-height: 20px;
             font-size: 18px;
-         }
-
-        .form-row:.link:hover {
-            color: red;
-         }
+            color: #0069BA;
+        }
+            .form-row > .link:hover {
+                color: red;
+            }
