@@ -9,7 +9,7 @@ This project is for educational porpuses only.
 Pull request are welcome! 
 Thank you for your cooperation!
 
-Site published at https://github.com/Vaidmine/06_sign-up/
+Site published at https://vaidmine.github.io/06_sign-up/
 
 Design: [Sign up modal](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
